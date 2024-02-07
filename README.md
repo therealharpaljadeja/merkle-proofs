@@ -265,4 +265,4 @@ console.log(
 
 #### Additional resources
 
-[MERKLE PROOFS FOR OFFLINE DATA INTEGRITY](https://ethereum.org/developers/tutorials/merkle-proofs-for-offline-data-integrity) - Ethereum Docs
+[Merkle Proofs for offline data integrity](https://ethereum.org/developers/tutorials/merkle-proofs-for-offline-data-integrity) - Ethereum Docs
